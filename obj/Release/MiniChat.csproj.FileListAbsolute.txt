@@ -1,0 +1,14 @@
+D:\Code\C#\MiniChat\bin\Release\MiniChat.exe.manifest
+D:\Code\C#\MiniChat\bin\Release\MiniChat.application
+D:\Code\C#\MiniChat\bin\Release\MiniChat.exe
+D:\Code\C#\MiniChat\bin\Release\MiniChat.pdb
+D:\Code\C#\MiniChat\obj\Release\MiniChat.csprojAssemblyReference.cache
+D:\Code\C#\MiniChat\obj\Release\MiniChat.Main.resources
+D:\Code\C#\MiniChat\obj\Release\MiniChat.Properties.Resources.resources
+D:\Code\C#\MiniChat\obj\Release\MiniChat.csproj.GenerateResource.cache
+D:\Code\C#\MiniChat\obj\Release\MiniChat.csproj.CoreCompileInputs.cache
+D:\Code\C#\MiniChat\obj\Release\MiniChat.exe.manifest
+D:\Code\C#\MiniChat\obj\Release\MiniChat.application
+D:\Code\C#\MiniChat\obj\Release\MiniChat.exe
+D:\Code\C#\MiniChat\obj\Release\MiniChat.pdb
+D:\Code\C#\MiniChat\obj\Release\MiniChat.TrustInfo.xml
