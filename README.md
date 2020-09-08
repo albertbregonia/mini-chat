@@ -3,7 +3,7 @@
 
 What began as a my first entry into learning programming sockets and internet-based devices in June 2020, I decided to spruce up this project and publish it as a useful little tool.
 
-**MiniChat** is written in C# using the .NET Framework. It exemplifies the fundamentals of socket programming and its main purpose is to be a debugging tool for internet capable devices with more visual appeal and easy of use. Even a very simple network program like this, requires a lot of error-checking in order to be robust. If you are learning to program with sockets, please keep that in mind.
+**MiniChat** is written in C# using the .NET Framework. It exemplifies the fundamentals of socket programming and its main purpose is to be a debugging tool for internet capable devices with more visual appeal and easy of use. Even a very simple network program like this, requires a lot of error-checking in order to be robust. If you are learning to program with sockets off of this code, please keep that in mind.
 
 ### Note: If you are to use this software you must:
 - Either, know how to port-forward or know someone that does.
