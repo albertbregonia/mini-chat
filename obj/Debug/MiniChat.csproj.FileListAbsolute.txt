@@ -12,3 +12,17 @@ D:\Code\C#\MiniChat\obj\Debug\MiniChat.application
 D:\Code\C#\MiniChat\obj\Debug\MiniChat.exe
 D:\Code\C#\MiniChat\obj\Debug\MiniChat.pdb
 D:\Code\C#\MiniChat\obj\Debug\MiniChat.TrustInfo.xml
+D:\Code\GitHub\MiniChat\bin\Debug\MiniChat.exe.manifest
+D:\Code\GitHub\MiniChat\bin\Debug\MiniChat.application
+D:\Code\GitHub\MiniChat\bin\Debug\MiniChat.exe
+D:\Code\GitHub\MiniChat\bin\Debug\MiniChat.pdb
+D:\Code\GitHub\MiniChat\obj\Debug\MiniChat.csprojAssemblyReference.cache
+D:\Code\GitHub\MiniChat\obj\Debug\MiniChat.Main.resources
+D:\Code\GitHub\MiniChat\obj\Debug\MiniChat.Properties.Resources.resources
+D:\Code\GitHub\MiniChat\obj\Debug\MiniChat.csproj.GenerateResource.cache
+D:\Code\GitHub\MiniChat\obj\Debug\MiniChat.csproj.CoreCompileInputs.cache
+D:\Code\GitHub\MiniChat\obj\Debug\MiniChat.TrustInfo.xml
+D:\Code\GitHub\MiniChat\obj\Debug\MiniChat.exe.manifest
+D:\Code\GitHub\MiniChat\obj\Debug\MiniChat.application
+D:\Code\GitHub\MiniChat\obj\Debug\MiniChat.exe
+D:\Code\GitHub\MiniChat\obj\Debug\MiniChat.pdb

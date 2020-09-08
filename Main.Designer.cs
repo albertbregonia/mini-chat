@@ -135,6 +135,7 @@
             this.console.Font = new System.Drawing.Font("Verdana", 11.25F, System.Drawing.FontStyle.Bold);
             this.console.ForeColor = System.Drawing.Color.White;
             this.console.FormattingEnabled = true;
+            this.console.HorizontalScrollbar = true;
             this.console.ItemHeight = 18;
             this.console.Location = new System.Drawing.Point(9, 40);
             this.console.Margin = new System.Windows.Forms.Padding(1);
