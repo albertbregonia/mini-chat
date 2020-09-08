@@ -14,3 +14,5 @@ What began as a my first entry into learning programming sockets and internet-ba
 1. Configurable to be a server or client
 2. Easy to use GUI
 3. Portable and installer versions are available.
+
+Please check the **Final** folder if you wish to simply download the Installer or Portable version instead of looking at the source code.
