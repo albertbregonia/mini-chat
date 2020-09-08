@@ -12,9 +12,9 @@ What began as a my first entry into learning programming sockets and internet-ba
 - Understand that traffic is ***NOT*** encrypted when messages are sent using this software.
 - Understand that this software was ***NOT*** meant to be a chat app between people. However, you can use it as such at your own risk.
 - Know that to use server mode with default settings, you will have to port-forward port `54000`.
-- Currently, this repository only includes the Windows based variant using the .NET Framework. However, this project can be easily modified to use the .NET Core and be compiled for many of the other available platforms on Visual Studio 2019. 
+- Currently, this repository only includes the Windows based variant using the .NET Framework. However, this project can be easily modified to use the .NET Core and be compiled for many of the other available platforms on Visual Studio 2019: 
 
-![Windows-MacOSX-Linux](https://github.com/albertbregonia/MiniChat/blob/master/img/compile.jpg?raw=true "OS Support")
+    ![Windows-MacOSX-Linux](https://github.com/albertbregonia/MiniChat/blob/master/img/compile.jpg?raw=true "OS Support")
 
 ## Main Features:
 1. Configurable to be a server or client
@@ -22,3 +22,5 @@ What began as a my first entry into learning programming sockets and internet-ba
 3. Portable and installer versions are available.
 
 Please check the `Final` folder if you wish to simply download the Installer or Portable version instead of looking at the source code.
+
+Let me know if you find any bugs and I will see what I can do! Enjoy.
