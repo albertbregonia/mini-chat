@@ -15,4 +15,4 @@ What began as a my first entry into learning programming sockets and internet-ba
 2. Easy to use GUI
 3. Portable and installer versions are available.
 
-Please check the **Final** folder if you wish to simply download the Installer or Portable version instead of looking at the source code.
+Please check the "**Final**" folder if you wish to simply download the Installer or Portable version instead of looking at the source code.
