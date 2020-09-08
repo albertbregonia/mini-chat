@@ -1,7 +1,7 @@
 # MiniChat
 ## A Simple, Peer-to-Peer, TCP-Based Chat App
 
-What began as a my first entry into learning programming sockets and internet-based devices. I decided to spruce up this project and publish it as a useful little tool.
+What began as a my first entry into learning programming sockets and internet-based devices in June 2020, I decided to spruce up this project and publish it as a useful little tool.
 
 ### Note: If you are to use this software you must:
 - Either, know how to port-forward or know someone that does.
