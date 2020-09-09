@@ -118,6 +118,7 @@ namespace MiniChat
         {
             //Message Logging in the Pseudo-Console
             console.Items.Add(DateTime.Now + "\t" + s);
+			console.TopIndex = console.Items.Count - 1; //Ensures that the last item is always seen
         }
 
         private void attemptConnection_DoWork(object sender, System.ComponentModel.DoWorkEventArgs e)
@@ -162,7 +163,6 @@ namespace MiniChat
                     {
                         currentClient = ((IPEndPoint)client.Client.RemoteEndPoint).ToString();
                         UpdateLog(currentClient + " has successfully connected");
-                        console.TopIndex = console.Items.Count - 1;
                     }
                     else
                     {
@@ -176,21 +176,13 @@ namespace MiniChat
 
         private void ping_DoWork(object sender, System.ComponentModel.DoWorkEventArgs e)
         {
-            int online;
+            int online;  //Display incoming messages while connection is valid
             while (client != null && client.Connected && (online = client.GetStream().ReadByte())>-1)
-            { //Display incoming messages while connection is valid
                 console.Invoke((MethodInvoker)delegate
-                {
-                    UpdateLog("@" + currentClient + " " + (char)online + scanner.ReadLine());
-                    console.TopIndex = console.Items.Count - 1;
-                });
-            }
+					{UpdateLog("@" + currentClient + " " + (char)online + scanner.ReadLine());});
             //Disconnect upon connection lost
             console.Invoke((MethodInvoker)delegate 
-            {
-                disconnect();
-                console.TopIndex = console.Items.Count - 1;
-            });
+				{disconnect();});
             ping.CancelAsync(); //End Message Handler
         }
     }
