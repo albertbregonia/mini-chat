@@ -1,5 +1,5 @@
 # MiniChat
-## A Simple, Peer-to-Peer, TCP-Based, Chat-Style Debug Tool
+## A Simple, TCP-Based, Chat-Style Debug Tool
 
 What began as a my first entry into learning programming sockets and internet-based devices in June 2020, I decided to spruce up this project and publish it as a useful little tool.
 
@@ -10,6 +10,7 @@ What began as a my first entry into learning programming sockets and internet-ba
 ### Note: If you are to use this software you must:
 - Understand the basic concepts of networking such as IP addresses and ports.
 - Understand that traffic is ***NOT*** encrypted when messages are sent using this software.
+- Understand that this tool is Peer-to-Peer and no more than 1 client can be connected at a time
 - Understand that this software was ***NOT*** meant to be a chat app between people. However, you can use it as such at your own risk.
 - Know that to use server mode and have a non-local source connect, you will have to port-forward port `54000`. (With default settings)
 - Currently, this repository only includes the Windows-based variant using the .NET Framework. However, this project can be easily modified to use the .NET Core and be compiled for many of the other available platforms on Visual Studio 2019:
