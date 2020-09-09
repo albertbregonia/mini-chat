@@ -21,6 +21,7 @@ What began as a my first entry into learning programming sockets and internet-ba
 2. Easy to use Chat-Style GUI
 3. Portable and installer versions are available.
 
-Please check the `Final` folder if you wish to simply download the Installer or Portable version instead of looking at the source code.
+## Installation:
+Please check the `Final` folder if you wish to simply download the Installer or Portable version instead of looking at the source code. Run either the `setup.exe` or the `MiniChat.exe` in `Final\Portable`
 
 Let me know if you find any bugs and I will see what I can do! Enjoy.
