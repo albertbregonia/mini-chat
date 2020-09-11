@@ -23,6 +23,6 @@ What began as a my first entry into learning programming sockets and internet-ba
 3. Portable and installer versions are available.
 
 ## Installation:
-Please check the `Final` folder if you wish to simply download the Installer or Portable version instead of looking at the source code. Run either the `setup.exe` or the `MiniChat.exe` in `Final\Portable`
+Please check the `Final` folder if you wish to simply download the Installer or Portable version instead of looking at the source code. Run either `setup.exe` or the `MiniChat.exe` in `Final\Portable`
 
 Let me know if you find any bugs and I will see what I can do! Enjoy.
