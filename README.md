@@ -5,7 +5,7 @@ What began as a my first entry into learning programming sockets and internet-ba
 
 ![Demo](https://github.com/albertbregonia/MiniChat/blob/master/img/demo.jpg?raw=true "Demo")
 
-**MiniChat** is written in C# using the .NET Framework. It exemplifies the fundamentals of socket programming with its main purpose being a visually appealing, easy-to-use, debugging tool for internet-capable devices. Even a very simple network program like this, requires a lot of error-checking in order to be robust. If you are learning to program with sockets off of this code, please keep that in mind.
+**MiniChat** is written in C# using the .NET Framework. It exemplifies the fundamentals of socket programming with its main purpose being a visually appealing, easy-to-use, debugging tool for network-capable devices or network-based software.
 
 ### Note: If you are to use this software you must:
 - Understand the basic concepts of networking such as IP addresses and ports.
@@ -23,6 +23,6 @@ What began as a my first entry into learning programming sockets and internet-ba
 3. Portable and installer versions are available.
 
 ## Installation:
-Please check the `Final` folder if you wish to simply download the Installer or Portable version instead of looking at the source code. Run either `setup.exe` or the `MiniChat.exe` in `Final\Portable`
+Please check the [`Final`](https://github.com/albertbregonia/MiniChat/tree/master/Final) folder if you wish to simply download the Installer or Portable version instead of looking at the source code. Run either `setup.exe` or the `MiniChat.exe` in [`Final\Portable`](https://github.com/albertbregonia/MiniChat/tree/master/Final/Portable)
 
 Let me know if you find any bugs and I will see what I can do! Enjoy.
