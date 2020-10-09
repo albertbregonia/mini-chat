@@ -7,7 +7,7 @@ What began as a my first entry into learning programming sockets and internet-ba
 
 **MiniChat** is written in C# using the .NET Framework. It exemplifies the fundamentals of socket programming with its main purpose being a visually appealing, easy-to-use, debugging tool for network-capable devices or network-based software.
 
-### Note: If you are to use this software you must:
+### Note: If you are to use this software, you must:
 - Understand the basic concepts of networking such as IP addresses and ports.
 - Understand that traffic is ***NOT*** encrypted when messages are sent using this software.
 - Understand that this tool is Peer-to-Peer and no more than 1 client can be connected at a time
